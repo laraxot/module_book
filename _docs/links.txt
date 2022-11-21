@@ -1,0 +1,14 @@
+value object
+entity
+aggregate
+----------------------
+repository
+It's an abstraction layer to provide access to all the entities and the value objects related to an aggregate
+-------------------------
+domain event
+domain service
+
+
+
+
+https://github.com/frameworkless-movement/manifesto
